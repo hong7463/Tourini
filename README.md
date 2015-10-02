@@ -7,10 +7,12 @@ This is a project which I've done for my database course. It is based on Ruby on
 * [Install Java runtime](https://java.com/en/download/)
 
 * [Install Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/setup.html). For Homebrew, use:
-### 
+```
     brew install elasticsearch
+```
 
 * Change your directory to Tourini and run the following line:
-### 
+```
     bundle install
+```
 
